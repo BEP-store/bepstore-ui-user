@@ -2,5 +2,9 @@
 'use strict';
 
 module.exports = {
-  name: 'bepstore-ui-user'
+  name: 'bepstore-user',
+
+  isDevelopingAddon: function() {
+    return true;
+  }
 };
