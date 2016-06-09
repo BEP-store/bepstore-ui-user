@@ -1,6 +1,6 @@
 {
   "name": "bepstore-user",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "The user(s)(-profile) for the bepstore.",
   "directories": {
     "doc": "doc",
