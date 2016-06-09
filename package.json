@@ -42,7 +42,6 @@
     "ember-moment": "6.1.0",
     "ember-try": "^0.2.2",
     "feedbackfruits-accounts": "feedbackfruits/feedbackfruits-ui-accounts",
-    "feedbackfruits-styles": "feedbackfruits/feedbackfruits-ui-styles",
     "loader.js": "^4.0.1"
   },
   "keywords": [
