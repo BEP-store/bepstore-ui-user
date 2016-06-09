@@ -1,5 +1,5 @@
 import Ember from 'ember';
-import layout from 'bepstore-user/template/component/picture/chat-pic';
+import layout from 'bepstore-user/templates/components/picture/chat-pic';
 
 const { Component, computed, inject: { service } } = Ember;
 

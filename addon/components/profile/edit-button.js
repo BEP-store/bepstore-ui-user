@@ -1,5 +1,5 @@
 import Ember from 'ember';
-import layout from 'bepstore-user/template/component/profile/edit-button';
+import layout from 'bepstore-user/templates/components/profile/edit-button';
 
 const { Component, on, observer, inject: { service } } = Ember;
 

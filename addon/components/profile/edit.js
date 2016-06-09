@@ -1,6 +1,6 @@
 import Ember from 'ember';
 import AuthenticatedRouteMixin from 'feedbackfruits-accounts/mixins/routes/authenticated-route-mixin';
-import layout from 'bepstore-user/template/component/profile/edit';
+import layout from 'bepstore-user/templates/components/profile/edit';
 
 export default Ember.Component.extend(AuthenticatedRouteMixin, {
   layout,
